@@ -392,3 +392,81 @@ Received Import Request.
   path: Assets/HDRPDefaultResources/Skin Diffusion Profile.asset
   artifactKey: Guid(e2265921aca1a30469f9534e2b295c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/HDRPDefaultResources/Skin Diffusion Profile.asset using Guid(e2265921aca1a30469f9534e2b295c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5379fa2e46c0dfa52e70c59aacaf1a04') in 0.005887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4336.270799 seconds.
+  path: Assets/RealSenseSDK2.0/Scenes/Samples/TexturesDepthAndColor.unity
+  artifactKey: Guid(c4b853c1285d9324e999dc60a8a399d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Scenes/Samples/TexturesDepthAndColor.unity using Guid(c4b853c1285d9324e999dc60a8a399d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948d93ea12db38a28eb93030afc5c5e3') in 0.041209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.907370 seconds.
+  path: Assets/StreamingAssets/sample_assets
+  artifactKey: Guid(cdaf6532c2b24cc4699b6c74ca70a4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/sample_assets using Guid(cdaf6532c2b24cc4699b6c74ca70a4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d133691ad06d6f4f5cdabffdbcdf92') in 0.004838 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.096238 seconds.
+  path: Assets/VFX/Lissajous 1.vfx
+  artifactKey: Guid(0bacdc2cc18d349d3a04758abfe64b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Lissajous 1.vfx using Guid(0bacdc2cc18d349d3a04758abfe64b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78e9173b1ad523166f1672baf779478') in 0.043315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.806029 seconds.
+  path: Assets/VFX/Horizon.vfx
+  artifactKey: Guid(0bacdc2cc18d349d3a04758abfe64b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Horizon.vfx using Guid(0bacdc2cc18d349d3a04758abfe64b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff549d836caa6aa78975f579266f1ea0') in 0.006871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.382846 seconds.
+  path: Assets/Common/Random Direction.vfxoperator
+  artifactKey: Guid(0a7705ffa07e0d74585186c8ac4cf7a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Random Direction.vfxoperator using Guid(0a7705ffa07e0d74585186c8ac4cf7a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fcf8484e4129e15520a9021291589b2') in 0.388522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Common/Sample Waveform.vfxoperator
+  artifactKey: Guid(7f3e35c57e2114b4d90dd54a7003db88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Common/Sample Waveform.vfxoperator using Guid(7f3e35c57e2114b4d90dd54a7003db88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c82c8d49b4ee351b400ab704d4a9c329') in 0.002213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.980786 seconds.
+  path: Assets/RealSenseSDK2.0/Scenes/Samples/BackgroundSegmentation.unity
+  artifactKey: Guid(dcb7835ca163a40408d6227793143806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Scenes/Samples/BackgroundSegmentation.unity using Guid(dcb7835ca163a40408d6227793143806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49a86f7efcd05ac1d9368d08980893a7') in 0.003259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 157.359317 seconds.
+  path: Assets/RealSenseSDK2.0/ProcessingPipe/AlignmentSample.asset
+  artifactKey: Guid(e2aa3ac11b42b754081322be7318d71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/ProcessingPipe/AlignmentSample.asset using Guid(e2aa3ac11b42b754081322be7318d71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7074ae1b579cb8fcd1eb751e23cec123') in 0.047283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/RealSenseSDK2.0/ProcessingPipe/PointCloudProcessingBlocks.asset
+  artifactKey: Guid(6f1f4d0a8f3f052419ca9059315d7fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/ProcessingPipe/PointCloudProcessingBlocks.asset using Guid(6f1f4d0a8f3f052419ca9059315d7fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2637566a8362725caeb3ac92d1fbd72b') in 0.016594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/RealSenseSDK2.0/ProcessingPipe/BackgroundSegmentation.asset
+  artifactKey: Guid(023db5934bbb74141a7d8b4a65c04e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/ProcessingPipe/BackgroundSegmentation.asset using Guid(023db5934bbb74141a7d8b4a65c04e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca932ea819d722df38764213fb021ed') in 0.002574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/RealSenseSDK2.0/ProcessingPipe/PointCloudDepthAndColor.asset
+  artifactKey: Guid(f5b0f2c5908cd7140acd24ad517229da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/ProcessingPipe/PointCloudDepthAndColor.asset using Guid(f5b0f2c5908cd7140acd24ad517229da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05396cf2a237c6eb77229f91aed1a0d') in 0.002947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/RealSenseSDK2.0/ProcessingPipe/PointCloudDepth.asset
+  artifactKey: Guid(2f4c9bcaa54b06f4e873be135ab13daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/ProcessingPipe/PointCloudDepth.asset using Guid(2f4c9bcaa54b06f4e873be135ab13daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52bd9e8d1a5fe96751aa1c6b3ed7759') in 0.002438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/RealSenseSDK2.0/ProcessingPipe/ARBackground.asset
+  artifactKey: Guid(2a06ba8591029d64c80177d3eac903f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/ProcessingPipe/ARBackground.asset using Guid(2a06ba8591029d64c80177d3eac903f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f8a1dfebfefb081e239176b21d662eb') in 0.002804 seconds 
