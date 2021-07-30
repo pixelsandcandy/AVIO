@@ -16,8 +16,8 @@
     }
   ],
   "dependencies": {
-    "com.unity.ide.visualstudio": "2.0.8",
-    "com.unity.render-pipelines.high-definition": "7.3.1",
+    "com.unity.ide.visualstudio": "2.0.9",
+    "com.unity.render-pipelines.high-definition": "11.0.0",
     "jp.keijiro.klak.motion": "1.0.1",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.imageconversion": "1.0.0",
