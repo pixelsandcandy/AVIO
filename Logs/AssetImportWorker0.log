@@ -145,3 +145,250 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Horizon.unity
+  artifactKey: Guid(edf71b617d76c49fb8a55b80a2cef0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horizon.unity using Guid(edf71b617d76c49fb8a55b80a2cef0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225a8c183cf79d06de57d3882fea693d') in 0.023848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.560291 seconds.
+  path: Assets/RealSenseSDK2.0/Scenes/Samples/TexturesDepthAndColor.unity
+  artifactKey: Guid(c4b853c1285d9324e999dc60a8a399d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Scenes/Samples/TexturesDepthAndColor.unity using Guid(c4b853c1285d9324e999dc60a8a399d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50859cb5a037af8b45dd1d9f6fa824ca') in 0.003032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.919757 seconds.
+  path: Assets/RealSenseSDK2.0/Scenes/Samples/PointCloudDepthAndColor.unity
+  artifactKey: Guid(7adc5cd8d63de844f8f9c013c8b68cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Scenes/Samples/PointCloudDepthAndColor.unity using Guid(7adc5cd8d63de844f8f9c013c8b68cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3de77c2e026d33e77f38d069d49330f') in 0.002015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 193.412366 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/ARBackgroundMat.mat
+  artifactKey: Guid(6e1f5e9643df5bb4bb6205cfa99759a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/ARBackgroundMat.mat using Guid(6e1f5e9643df5bb4bb6205cfa99759a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+ -> (artifact id: '12ee3a7401bc8f0c02e43dff911eb6e7') in 16.270734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/GridMatMinor.mat
+  artifactKey: Guid(9ba12621fc8d93046b8d10e788c43e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/GridMatMinor.mat using Guid(9ba12621fc8d93046b8d10e788c43e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a2454cc539a0c89265520ff2cb758d') in 0.178621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/PointCloudMat.mat
+  artifactKey: Guid(a88d3559a65c7024fb983e435d846e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/PointCloudMat.mat using Guid(a88d3559a65c7024fb983e435d846e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d6348566ff9719ce0a3c0410c3e0f5') in 0.060095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/GrayscaleMat.mat
+  artifactKey: Guid(595879b7aa8f861409d591d93afd819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/GrayscaleMat.mat using Guid(595879b7aa8f861409d591d93afd819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7a2f5420482547cfc5361985eec445') in 0.094102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/IRmat.mat
+  artifactKey: Guid(0f0259ab1e9845b45a49cc76d57bfeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/IRmat.mat using Guid(0f0259ab1e9845b45a49cc76d57bfeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35c6446fbf4a908b98dc1925a6ad0eb') in 0.062128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/depthMat.mat
+  artifactKey: Guid(31d0040942473eb42b95960bbe1ba544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/depthMat.mat using Guid(31d0040942473eb42b95960bbe1ba544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d0988fa803803327fd8c8cb0b13fdd5') in 0.043771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/RGBMat.mat
+  artifactKey: Guid(8c87e72b38c55bb4bba154ac5e529534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/RGBMat.mat using Guid(8c87e72b38c55bb4bba154ac5e529534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de81c422923474024db594651b3ce060') in 0.065222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/GridMatMajor.mat
+  artifactKey: Guid(52b987f2e39dd1e4a9098bb5b1d87043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/GridMatMajor.mat using Guid(52b987f2e39dd1e4a9098bb5b1d87043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db4501083cb5c4760683b6b722fa16e2') in 0.029614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/TrailMat.mat
+  artifactKey: Guid(ae00e9c715dfe3448bc7432ea02f4c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/TrailMat.mat using Guid(ae00e9c715dfe3448bc7432ea02f4c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a64e156e2727d9a720b57962c5789e') in 0.031138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/BGSegMat.mat
+  artifactKey: Guid(b450f17118e189b44afff9200f9d1672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/BGSegMat.mat using Guid(b450f17118e189b44afff9200f9d1672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fae137f671c99269d85841c0c580ee6') in 0.107547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/RealSenseSDK2.0/Materials/CustomSkybox.mat
+  artifactKey: Guid(4768d15cf9a67ee4c848c5899a7d7e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealSenseSDK2.0/Materials/CustomSkybox.mat using Guid(4768d15cf9a67ee4c848c5899a7d7e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2275a93dbaf723ee809fefad79537b') in 0.046124 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002237 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.402 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1402ms)
+		BeginReloadAssembly (210ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (26ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (83ms)
+		EndReloadAssembly (1127ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (365ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (333ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (45ms)
+				ProcessInitializeOnLoadAttributes (272ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 305.1 MB.
+System memory in use after: 305.3 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3797.
+Total: 3.511237 ms (FindLiveObjects: 0.442972 ms CreateObjectMapping: 0.146953 ms MarkObjects: 2.868548 ms  DeleteObjects: 0.051998 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 538.649904 seconds.
+  path: Assets/VFX/Bloom.asset
+  artifactKey: Guid(7fec511d455cc7a2c9ed1905ddb22926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Bloom.asset using Guid(7fec511d455cc7a2c9ed1905ddb22926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '390ec77e3cff43215e4b28568473a4f4') in 0.532781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/VFX/Spectrogram.vfx
+  artifactKey: Guid(e7c50b932a73b264c950548512bdc596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Spectrogram.vfx using Guid(e7c50b932a73b264c950548512bdc596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c66e4d6121059648fa67997326e1c2') in 0.307817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/VFX/Lissajous.vfx
+  artifactKey: Guid(a2470f62a0294054c9eefb5470c55dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Lissajous.vfx using Guid(a2470f62a0294054c9eefb5470c55dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57125c6344a093e287c8e6d43542b63') in 0.005801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/VFX/Particles.vfx
+  artifactKey: Guid(4d50d7283ba4e2e039263018f61ffa61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Particles.vfx using Guid(4d50d7283ba4e2e039263018f61ffa61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561cee4d6da02fc0dbaca93290857ea7') in 0.006696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/VFX/Waveform.vfx
+  artifactKey: Guid(a8dc2e093903a7f43bf34cd586a6c85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/Waveform.vfx using Guid(a8dc2e093903a7f43bf34cd586a6c85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a0cbf15866028a2a9b593c14ccedf9') in 0.005676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.603998 seconds.
+  path: Assets/HDRPDefaultResources/DefaultSceneRoot.prefab
+  artifactKey: Guid(9cee2d885368af441a95fc4d2c731696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/DefaultSceneRoot.prefab using Guid(9cee2d885368af441a95fc4d2c731696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4871a0d3eb9cc5f9c061af9769a47b7') in 0.258945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/HDRPDefaultResources/VFXDefaultResources.asset
+  artifactKey: Guid(6967188a97d9040ffbc497826d72d7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/VFXDefaultResources.asset using Guid(6967188a97d9040ffbc497826d72d7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4468f5112bc28bff96bbf38a06ffaa') in 0.060694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/HDRPDefaultResources/Sky and Fog Settings Profile.asset
+  artifactKey: Guid(5fa3da8ef4eb909418811b1b54d77650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/Sky and Fog Settings Profile.asset using Guid(5fa3da8ef4eb909418811b1b54d77650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b3c9e55460db9aa5d6110247ec9abf') in 0.013373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/HDRPDefaultResources/Foliage Diffusion Profile.asset
+  artifactKey: Guid(8273edbb0cd558048b97051f94458ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/Foliage Diffusion Profile.asset using Guid(8273edbb0cd558048b97051f94458ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0956a62b127dbc21a8fe5548b2b29499') in 0.006365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/HDRPDefaultResources/HDRP.asset
+  artifactKey: Guid(623d1c1b73adc97dbbf05d8aa3eb3711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/HDRP.asset using Guid(623d1c1b73adc97dbbf05d8aa3eb3711) Importer(815301076,1909f56bfc062723c751e8b465ee728b) HDRP Internally changed the storage of Cube Cookie to use Octahedral Projection inside the 2D Cookie Atlas. It is recommended that you increase the size of the 2D Cookie Atlas if your cookies no longer fit.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset/<>c:<.cctor>b__108_12 (UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset) (at Library/PackageCache/com.unity.render-pipelines.high-definition@11.0.0/Runtime/RenderPipeline/HDRenderPipelineAsset.Migration.cs:126)
+UnityEngine.Rendering.HighDefinition.MigrationStep`2<UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset/Version, UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset>:Migrate (UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset) (at Library/PackageCache/com.unity.render-pipelines.high-definition@11.0.0/Runtime/Core/Migration/MigrationStep.cs:52)
+UnityEngine.Rendering.HighDefinition.MigrationDescription`2<UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset/Version, UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset>:Migrate (UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset) (at Library/PackageCache/com.unity.render-pipelines.high-definition@11.0.0/Runtime/Core/Migration/MigrationDescription.cs:101)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@11.0.0/Runtime/RenderPipeline/HDRenderPipelineAsset.Migration.cs:146)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@11.0.0/Runtime/RenderPipeline/HDRenderPipelineAsset.Migration.cs Line: 126)
+
+ -> (artifact id: '85732f4b275535c56a91b85db05c4fea') in 0.010862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/HDRPDefaultResources/Skin Diffusion Profile.asset
+  artifactKey: Guid(e2265921aca1a30469f9534e2b295c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources/Skin Diffusion Profile.asset using Guid(e2265921aca1a30469f9534e2b295c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5379fa2e46c0dfa52e70c59aacaf1a04') in 0.005887 seconds 

@@ -289,6 +289,7 @@
 -r:"/Users/stardust/Files/Unity Projects/2021/AVIO/Library/PackageCache/org.nuget.system.memory@4.5.3/System.Memory.dll"
 -r:"/Users/stardust/Files/Unity Projects/2021/AVIO/Library/PackageCache/org.nuget.system.numerics.vectors@4.4.0/System.Numerics.Vectors.dll"
 -r:"/Users/stardust/Files/Unity Projects/2021/AVIO/Library/PackageCache/org.nuget.system.runtime.compilerservices.unsafe@4.5.2/System.Runtime.CompilerServices.Unsafe.dll"
+-r:"Assets/RealSenseSDK2.0/Plugins/Intel.RealSense.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
